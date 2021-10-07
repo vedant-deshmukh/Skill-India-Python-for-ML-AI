@@ -1,0 +1,212 @@
+{
+  "1000": {
+    "name": "parle g 100g",
+    "type": "biscuit",
+    "price": 34,
+    "stock": 30,
+    "exp_date": "12/10/2023"
+  },
+  "1001": {
+    "name": "parle g 150g",
+    "type": "biscuit",
+    "price": 59,
+    "stock": 24,
+    "exp_date": "14/08/2023"
+  },
+  "1002": {
+    "name": "marie gold 120g",
+    "type": "biscuit",
+    "price": 30,
+    "stock": 41,
+    "exp_date": "14/05/2023"
+  },
+  "1003": {
+    "name": "marie gold 200g",
+    "type": "biscuit",
+    "price": 61,
+    "stock": 31,
+    "exp_date": "15/06/2023"
+  },
+  "1004": {
+    "name": "monaco 100g",
+    "type": "biscuit",
+    "price": 20,
+    "stock": 12,
+    "exp_date": "19/02/2023"
+  },
+  "1005": {
+    "name": "monaco 150g",
+    "type": "biscuit",
+    "price": 45,
+    "stock": 45,
+    "exp_date": "18/11/2023"
+  },
+  "1006": {
+    "name": "krack jack 100g",
+    "type": "biscuit",
+    "price": 25,
+    "stock": 10,
+    "exp_date": "11/03/2023"
+  },
+  "1007": {
+    "name": "krack jack 200g",
+    "type": "biscuit",
+    "price": 50,
+    "stock": 41,
+    "exp_date": "12/01/2023"
+  },
+  "1008": {
+    "name": "maggi 1",
+    "type": "noodles",
+    "price": 12,
+    "stock": 23,
+    "exp_date": "14/05/2023"
+  },
+  "1009": {
+    "name": "maggi 2",
+    "type": "noodles",
+    "price": 24,
+    "stock": 26,
+    "exp_date": "06/01/2023"
+  },
+  "1010": {
+    "name": "maggi 4",
+    "type": "noodles",
+    "price": 48,
+    "stock": 18,
+    "exp_date": "07/02/2023"
+  },
+  "1011": {
+    "name": "maggi 6",
+    "type": "noodles",
+    "price": 72,
+    "stock": 20,
+    "exp_date": "25/04/2023"
+  },
+  "1012": {
+    "name": "coca cola 1l",
+    "type": "drinks",
+    "price": 49,
+    "stock": 47,
+    "exp_date": "16/09/2023"
+  },
+  "1013": {
+    "name": "frooti 1l",
+    "type": "drinks",
+    "price": 59,
+    "stock": 32,
+    "exp_date": "21/07/2023"
+  },
+  "1014": {
+    "name": "pepsi 1l",
+    "type": "drinks",
+    "price": 49,
+    "stock": 11,
+    "exp_date": "17/09/2023"
+  },
+  "1015": {
+    "name": "cake 200g",
+    "type": "cake",
+    "price": 250,
+    "stock": 16,
+    "exp_date": "29/04/2023"
+  },
+  "1016": {
+    "name": "cake 500g",
+    "type": "cake",
+    "price": 750,
+    "stock": 18,
+    "exp_date": "21/12/2023"
+  },
+  "1017": {
+    "name": "toor dal 1kg",
+    "type": "pulses",
+    "price": 99,
+    "stock": 50,
+    "exp_date": "08/10/2023"
+  },
+  "1018": {
+    "name": "masoor dal 1kg",
+    "type": "pulses",
+    "price": 85,
+    "stock": 43,
+    "exp_date": "19/10/2023"
+  },
+  "1019": {
+    "name": "udid dal 1kg",
+    "type": "pulses",
+    "price": 72,
+    "stock": 39,
+    "exp_date": "12/10/2023"
+  },
+  "1020": {
+    "name": "chana dal 1kg",
+    "type": "pulses",
+    "price": 69,
+    "stock": 35,
+    "exp_date": "14/08/2023"
+  },
+  "1021": {
+    "name": "tata salt 1kg",
+    "type": "salt",
+    "price": 39,
+    "stock": 41,
+    "exp_date": "14/05/2023"
+  },
+  "1022": {
+    "name": "patanjali salt 1kg",
+    "type": "salt",
+    "price": 36,
+    "stock": 28,
+    "exp_date": "15/06/2023"
+  },
+  "1023": {
+    "name": "lux",
+    "type": "soaps",
+    "price": 100,
+    "stock": 25,
+    "exp_date": "19/02/2023"
+  },
+  "1024": {
+    "name": "santoor",
+    "type": "soaps",
+    "price": 120,
+    "stock": 31,
+    "exp_date": "18/11/2023"
+  },
+  "1025": {
+    "name": "cinthol",
+    "type": "soaps",
+    "price": 84,
+    "stock": 15,
+    "exp_date": "07/07/2023"
+  },
+  "1026": {
+    "name": "dove",
+    "type": "soaps",
+    "price": 93,
+    "stock": 34,
+    "exp_date": "20/11/2023"
+  },
+  "1027": {
+    "name": "basmati rice 1kg",
+    "type": "rice",
+    "price": 32,
+    "stock": 39,
+    "exp_date": "01/02/2023"
+  },
+  "1028": {
+    "name": "surf excel 1kg",
+    "type": "detergents",
+    "price": 45,
+    "stock": 42,
+    "exp_date": "05/05/2023"
+  },
+  "1029": {
+    "name": "tide 1kg",
+    "type": "detergents",
+    "price": 36,
+    "stock": 29,
+    "exp_date": "11/10/2023"
+  }
+}
